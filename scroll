@@ -14,4 +14,5 @@ func rotate(_ array: inout [Int]) {
     }
 }
 
-rotate(&array)
+rotate(&array) 
+// array will be [8, 1, 2, 3, 4, 5, 6, 7]
